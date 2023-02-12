@@ -1,7 +1,7 @@
 # You-are-Pythonista
 汇聚【从零单排】【实战项目】【数据科学】【自然语言处理】【计算机视觉】【面试题系列】【大航海】【Python应用】【错题集】【技术沙龙】【内推渠道】等等
 
-【人人都是Pythonista】由公众号【Python专栏】推出，请认准唯一标识：
+【人人都是Pythonista】由公众号【Python专栏】推出，请认准唯一标识：lala bhai 
 
 <div align="center">
     <img width="40%" src="https://raw.githubusercontent.com/MiracleYoung/You-are-Pythonista/master/Static/image/logo.gif" alt="公众号二维码">
